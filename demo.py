@@ -8,6 +8,8 @@ a = my_codes.add(5, 2)
 
 print(a)
 
+print('hello')
+
 import random
 
 print(random.randrange(1, 10))
